@@ -29,6 +29,7 @@
 - **[Paseador](https://github.com/joferte84/paseador)**: Sistema recomendador logístico en pruebas que optimiza rutas de paseos basándose en análisis predictivo.
 
 ### Contribuciones
+- Embajador en HACK A BOSS.
 - Contribuciones regulares a proyectos personales, destacando en análisis de datos y machine learning.
 
 

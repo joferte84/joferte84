@@ -15,7 +15,7 @@
 - **Herramientas de Análisis de Datos**: Visual Studio Code, RStudio, Power BI, MongoDB
 - **Machine Learning y Modelado Predictivo**: Desarrollo y optimización de modelos, incluyendo CNNs para visión por computadora.
 - **Desarrollo de Aplicaciones Web**: Streamlit
-- **Integración con APIs**: OpenAI API
+- **Integración con APIs**: OpenAI API, Hugging Face
 - **Gestión de Bases de Datos**: MongoDB, CouchDB
 
 ### Proyectos Destacados

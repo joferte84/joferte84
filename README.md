@@ -12,7 +12,7 @@
 
 ### Habilidades y Tecnologías
 - **Lenguajes de Programación**: Python, R, SQL, NoSQL
-- **Herramientas de Análisis de Datos**: Jupyter Notebook, RStudio, Power BI
+- **Herramientas de Análisis de Datos**: Visual Studio Code, RStudio, Power BI
 - **Machine Learning y Modelado Predictivo**: Desarrollo y optimización de modelos, incluyendo CNNs para visión por computadora.
 - **Desarrollo de Aplicaciones Web**: Streamlit
 - **Integración con APIs**: OpenAI API

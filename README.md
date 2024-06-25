@@ -18,6 +18,10 @@
 - **Integración con APIs**: OpenAI API, Hugging Face, Fast API
 - **Gestión de Bases de Datos**: MongoDB, CouchDB
 
+### Curriculum
+
+Puedes ver mi curriculum[aquí](https://github.com/joferte84/joferte84/blob/main/JorgeFernandezTejedor.pdf)
+
 ### Proyectos Destacados
 - **[EchoDocs](https://github.com/joferte84/EchoDocs)**: Transforma documentos PDF en conversaciones interactivas usando la API de ChatGPT.
 - **[Predictor_precio_coche](https://github.com/joferte84/Predictor_precio_coche)**: Modelo predictivo de Machine Learning para predecir el valor de coches de segunda mano.

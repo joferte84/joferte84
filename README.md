@@ -12,11 +12,11 @@
 
 ### Habilidades y Tecnologías
 - **Lenguajes de Programación**: Python, R, SQL, NoSQL
-- **Herramientas de Análisis de Datos**: Visual Studio Code, RStudio, Power BI, MongoDB
+- **Herramientas de Análisis de Datos**: Visual Studio Code, RStudio, Power BI, MongoDB, MySQL Workbench
 - **Machine Learning y Modelado Predictivo**: Desarrollo y optimización de modelos, incluyendo CNNs para visión por computadora.
 - **Desarrollo de Aplicaciones Web**: Streamlit, Flask, Django
 - **Integración con APIs**: OpenAI API, Hugging Face, Fast API
-- **Gestión de Bases de Datos**: MongoDB, CouchDB
+- **Gestión de Bases de Datos**: MongoDB, CouchDB, MySQL Workbench
 
 ### Curriculum
 

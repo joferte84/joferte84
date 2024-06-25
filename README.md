@@ -20,7 +20,7 @@
 
 ### Curriculum
 
-Puedes ver mi curriculum[aquí](https://github.com/joferte84/joferte84/blob/main/JorgeFernandezTejedor.pdf)
+Puedes ver mi curriculum [aquí](https://github.com/joferte84/joferte84/blob/main/JorgeFernandezTejedor.pdf)
 
 ### Proyectos Destacados
 - **[EchoDocs](https://github.com/joferte84/EchoDocs)**: Transforma documentos PDF en conversaciones interactivas usando la API de ChatGPT.

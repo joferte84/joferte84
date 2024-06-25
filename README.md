@@ -25,7 +25,7 @@ Puedes ver mi curriculum [aquí](https://github.com/joferte84/joferte84/blob/mai
 
 ### Proyectos Destacados
 
-- **[Demo_decide](https://github.com/joferte84/Demo_decide)**: Extrae automáticamente datos clave de facturas eléctricas PDF usando OpenAI, optimizando el análisis de grandes volúmenes de información.
+- **[Demo_decide](https://github.com/joferte84/Demo_decide)**: Aplicación web que extrae automáticamente datos clave de facturas eléctricas PDF usando OpenAI, optimizando el análisis de grandes volúmenes de información.
 - **[EchoDocs](https://github.com/joferte84/EchoDocs)**: Transforma documentos PDF en conversaciones interactivas usando la API de ChatGPT.
 - **[Predictor_precio_coche](https://github.com/joferte84/Predictor_precio_coche)**: Modelo predictivo de Machine Learning para predecir el valor de coches de segunda mano.
 - **[EDA_Madrid](https://github.com/joferte84/EDA_Madrid)**: Análisis Exploratorio de Datos socialdemográficos de Madrid.

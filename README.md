@@ -16,7 +16,7 @@
 - **Machine Learning y modelado predictivo**: Desarrollo y optimización de modelos, incluyendo CNNs para visión por computadora.
 - **Desarrollo de aplicaciones web**: Streamlit, Flask, Django
 - **Integración con APIs**: OpenAI API, Hugging Face, Fast API
-- **Gestión de bases de datos**: MongoDB, CouchDB, MySQL Workbench
+- **Gestión de bases de datos**: MongoDB, CouchDB, MySQL Workbench, Redis, Apache Spark
 - **Contenedores y despliegue**: Docker
 
 ### Curriculum

@@ -1,3 +1,5 @@
+<div style="position: relative; min-height: 300px;">
+  
 <div align="center">
   
 # Hola👋, soy Jorge Fernández
@@ -5,6 +7,14 @@
 </div>
 
 <div align="center">
+
+## Analista y científico de datos
+
+</div>
+
+<div align="center">
+  <img src="avatar.png" alt="Avatar" style="width: 200px; opacity: 0.8;">
+</div>
 
 ## Analista y ciéntifico de datos
 
@@ -39,5 +49,4 @@ Puedes ver mi curriculum [aquí](https://github.com/joferte84/joferte84/blob/mai
 - Embajador en HACK A BOSS.
 - Particiapaciones en Hackatones.
 - Contribuciones regulares a proyectos personales, destacando en análisis de datos y machine learning.
-
 

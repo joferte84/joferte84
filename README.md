@@ -17,7 +17,7 @@
 - **Desarrollo de aplicaciones web**: Streamlit, Flask, Django
 - **Integración con APIs**: OpenAI API, Hugging Face, Fast API
 - **Gestión de bases de datos**: MongoDB, CouchDB, MySQL Workbench, Redis, Apache Spark
-- **Contenedores y despliegue**: Docker
+- **Contenedores y despliegue**: Docker, Terraform, Ansible
 
 ### Curriculum
 
@@ -37,6 +37,7 @@ Puedes ver mi curriculum [aquí](https://github.com/joferte84/joferte84/blob/mai
 
 ### Contribuciones
 - Embajador en HACK A BOSS.
+- Particiapaciones en Hackatones.
 - Contribuciones regulares a proyectos personales, destacando en análisis de datos y machine learning.
 
 

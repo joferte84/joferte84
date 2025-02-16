@@ -31,7 +31,7 @@
 
 ### Curriculum
 
-Puedes ver mi curriculum [aquí](https://github.com/joferte84/joferte84/blob/main/JorgeFernandezTejedor.pdf)
+Puedes ver mi curriculum [aquí](https://github.com/joferte84/joferte84/blob/main/Harvard_Jorge_Actualizado.pdf)
 
 ### Proyectos Destacados
 
